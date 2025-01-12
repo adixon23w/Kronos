@@ -1,3 +1,3 @@
 # Kronos
-Basic tool i batch maybe im gonna update soon
+Basic tool to optimize your pc i made batch.
 ![My animated logo](image.png)
