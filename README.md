@@ -1,3 +1,3 @@
 # Kronos
 Basic tool i batch maybe im gonna update soon
-![My animated logo](ss1.png)
+![My animated logo](image.png)
